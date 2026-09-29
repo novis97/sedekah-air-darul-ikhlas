@@ -1,0 +1,9 @@
+Foto diekstrak dari PROPOSAL PERMOHONAN BANTUAN SUMUR.pdf (resolusi asli di dalam PDF).
+
+foto-lokasi/            -> aman dipakai. gedung-pondok-hero.jpg (2420px) layak untuk hero & gambar OG.
+                           Foto kondisi sumur/bak 605-807px: cukup untuk galeri, TIDAK untuk hero.
+foto-santri-PERLU-IZIN/ -> wajah santri terlihat. Jangan dipakai sebelum pondok mengizinkan pemakaian di web publik.
+logo/                   -> logo-banner teksnya PUTIH (hanya terbaca di latar gelap/berwarna).
+                           logo-lambang-kecil.png hanya 165px. Tetap minta file logo asli (PNG/SVG) ke pondok.
+
+Dua gambar di PDF (gedung kaca hitam-putih & meja laptop) adalah gambar stok dekorasi Canva, sengaja tidak diambil.
